@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(0, 0, 0);
+    color: white;
     text-align: center;
     font-size: 36px;
     margin-top: 20px;
@@ -16,10 +16,16 @@ body {
 img { 
     width: 100px;
     height: 100px;
+    margin: 20px 30px;
 }
 
 p { 
     font-size: 16px;
     line-height: 1.5;
     margin: 10px 30px; 
+    color: white;
+}
+
+.caixa {
+    background-color: gray;
 }
