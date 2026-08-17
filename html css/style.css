@@ -18,6 +18,7 @@ img {
     width: 100px;
     height: 100px;
     margin: 20px 30px;
+    border-radius: 50%;
 }
 
 p { 
@@ -29,4 +30,6 @@ p {
 
 .caixa {
     background-color: gray;
+    border-radius: 10px;
+    padding: 20px;
 }
