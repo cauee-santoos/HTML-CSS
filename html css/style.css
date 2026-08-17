@@ -36,10 +36,16 @@ p {
     margin: 20px;
 }
 
-.caixa a:hover {
-
-background-color: violet;
-
-
+.caixa a {
+    display: inline-block;
+    background-color: black;
+    color: white;  
+    padding: 10px 20px;
+    border-radius: 120px;
+    text-decoration: none;
 }
 
+.caixa a:hover {
+    background-color: white;
+    color: black;
+}
