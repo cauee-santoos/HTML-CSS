@@ -1,11 +1,25 @@
-body {
-    background-color: #f1eded; 
-    font-family: Arial, sans-serif;
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 36px;
+    margin-top: 20px;
 }
 
-button {
-    background-color: #3a57c0;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
+body {
+    background-color: #fdfdfd; 
+    font-family: Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+}
+
+img { 
+    width: 100px;
+    height: 100px;
+}
+
+p { 
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 10px 30px; 
 }
