@@ -15,10 +15,11 @@ body {
 }
 
 img { 
+    
     width: 100px;
     height: 100px;
-    margin: 20px 30px;
-    border-radius: 50%;
+    object-fit: cover;
+    border-radius: 20%;
 }
 
 p { 
